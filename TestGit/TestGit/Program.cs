@@ -27,7 +27,7 @@ namespace TestGit
             TestModult tm = new TestModult();
             tm.UserName = "hekai";
             tm.Address = "湖北蕲春";
-            var fs = "";
+            var fs = "标杆 桂林";
             return tm;
         }
     }
