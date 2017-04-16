@@ -10,6 +10,7 @@ namespace TestGit
     {
         static void Main(string[] args)
         {
+            var cc = "宋青青傻B";
         }
     }
 }
