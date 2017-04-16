@@ -1,0 +1,2 @@
+E:\PrivateProject\TestGit\TestGit\TestGit\bin\Debug\TestGit.exe.config
+E:\PrivateProject\Gits\TestGit\TestGit\TestGit\bin\Debug\TestGit.exe.config
